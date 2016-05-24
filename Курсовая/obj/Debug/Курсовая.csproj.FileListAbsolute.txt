@@ -1,0 +1,9 @@
+c:\users\denis\documents\visual studio 2013\Projects\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Denis\documents\visual studio 2013\Projects\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Denis\documents\visual studio 2013\Projects\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Denis\documents\visual studio 2013\Projects\Курсовая\Курсовая\obj\Debug\Курсовая.csprojResolveAssemblyReference.cache
+C:\Users\Denis\documents\visual studio 2013\Projects\Курсовая\Курсовая\obj\Debug\Курсовая.Form1.resources
+C:\Users\Denis\documents\visual studio 2013\Projects\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\Denis\documents\visual studio 2013\Projects\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.Cache
+C:\Users\Denis\documents\visual studio 2013\Projects\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Denis\documents\visual studio 2013\Projects\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
