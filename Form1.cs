@@ -23,9 +23,7 @@ namespace Курсовая
         {
 
         }
-        // interesting for git
-        //it's real
-        //unbelieveble
+        
 
         private void button1_Click(object sender, EventArgs e)
         {
